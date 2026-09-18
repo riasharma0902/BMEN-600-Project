@@ -6,7 +6,7 @@
 
 # Biomedical Problem
 
-This project would allow for improving the efficiency of diagnoses by streamlining how the combination of certain treatments for Wilms' tumour among paediatric patients in different stages.
+This project would allow for the improvement of the efficiency of diagnosis by streamlining how the combination of certain treatments for Wilms' tumour among paediatric patients in different stages interact with one another to enhance the efficacy and quality of treatment for more personalized care.
 
 
 # Possible RQ
@@ -33,8 +33,8 @@ We would like to investigate how to predict tumour grade in pediatric glioma usi
 We will use the DFCI-BCH-BWH-PEDs-HGG dataset from the Cancer Imaging Archive, accessed at this link: https://www.cancerimagingarchive.net/collection/DFCI-BCH-BWH-PEDs-HGG/
 
 # Biggest Uncertainty 
-The biggest uncertainty we will experience is the smaller sample size (n = 61), which would ultimately limit the generalizability of the results obtained. Additonally, the MRI machine used varies between hospitals, which may cause a difference in the image data.
+The biggest uncertainty we will experience is the smaller sample size (n = 61), which would ultimately limit the generalizability of the results obtained. Additionally, the MRI machine used varies between hospitals among patients, which may cause a difference in the image data.
 
 # Current Decision 
 
-We are currently leaning toward candidate project 1 because it is under-researched relative to candidate project 2, allowing this research to be more impactful and allow for a novel understanding of this type of cancer.
+We are currently leaning toward candidate project 2 because it is under-researched relative to candidate project 1, allowing this research to be more impactful and allow for a more novel understanding of this type of cancer.
