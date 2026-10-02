@@ -38,3 +38,6 @@ The biggest uncertainty we will experience is the smaller sample size (n = 61), 
 # Current Decision 
 
 We are currently leaning toward candidate project 2 because it is under-researched relative to candidate project 1, allowing this research to be more impactful and allow for a more novel understanding of this type of cancer.
+
+
+REVISE - The overall project works, but there is no open dataset for low-grade gliomas in pediatrics, so instead we will be looking at Radiomics-Based Prediction of Clinical Outcomes in Pediatric High-Grade Gliomas Using TCIA MRI Data 
