@@ -14,14 +14,14 @@ From this link, we accessed the Images (Training and Validation) which includes 
 
 Steps to Open and Run Progress Check: 
 
-Download the clinical metadata from TCIA following Section 2.
+## How to Run the Preliminary Analysis
 
-Open notebooks/preliminary_results.ipynb in Google Colab.
+1. Download the BraTS-PEDs metadata TSV file from [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/collection/brats-peds/).
+2. Open `preliminary_results.ipynb` in Google Colab using the **Open in Colab** button.
+3. Run the first code cell and upload the downloaded metadata TSV file when prompted.
+4. Run the remaining cells in order.
+5. The notebook will display the dataset summary statistics and generate the preliminary analysis figure.
 
-Install any missing packages listed in requirements.txt.
+**Software required:** Google Colab (Python, pandas, NumPy, Matplotlib).
 
-Upload the downloaded metadata to Google Drive and mount Google Drive in Colab, or upload the file directly to the Colab session.
-
-Update the metadata file path in the notebook to match the downloaded file's location.
-
-Run the notebook cells in sequence.
+No Google Drive setup or file path modifications are required.
