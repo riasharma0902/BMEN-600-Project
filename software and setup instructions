@@ -1,0 +1,7 @@
+Software and Setup Instructions
+Platform: Google Colab
+Programming language: Python
+Required Python packages:
+- pandas
+- NumPy
+- Matplotlib
