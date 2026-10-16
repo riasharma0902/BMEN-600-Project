@@ -1,4 +1,4 @@
-Research Question: Predicting clinical outcomes in pediatric high-grade gliomas using radiomic features from TCIA MRI data. 
+Research Question: Can Radiomic Features Extracted From Multi-Sequence MRI Predict Clinical Outcomes (i.e. Overall Survival) In Pediatric High-Grade Glioma Patients Using The BraTS-PEDs Dataset. 
 
 Dataset Access Instructions: The dataset can be accessed from the TCIA's webpage using this link: https://www.cancerimagingarchive.net/collection/brats-peds/
 
